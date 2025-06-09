@@ -35,7 +35,7 @@ Atualmente, estou aberto a oportunidades de trabalho — uma excelente maneira d
 ## About me
 
 My hobbies are few, but diverse. This is a great combination, because I can really dive into them whenever i have the time ⏰
-<sub><i>Tenho poucos, mas variados hobbies. Gosto dessa combinação, pois me permite realmente me envolver nessas atividades sempre que tenho tempo </i>⏰</sub>
+<br /><sub><i>Tenho poucos, mas variados hobbies. Gosto dessa combinação, pois me permite realmente me envolver nessas atividades sempre que tenho tempo </i>⏰</sub>
 
 * 🌳 Trekking (Trilhas)
 
