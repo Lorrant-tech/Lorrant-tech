@@ -31,3 +31,28 @@ Atualmente, estou aberto a oportunidades de trabalho — uma excelente maneira d
 <img height="50" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="HTML" title="HTML"/>
 <img height="50" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS"/>
 </div>
+
+## About me
+
+My hobbies are few, but diverse. This is a great combination, because I can really dive into them whenever i have the time ⏰
+<sub><i>Tenho poucos, mas variados hobbies. Gosto dessa combinação, pois me permite realmente me envolver nessas atividades sempre que tenho tempo </i>⏰</sub>
+
+* 🌳 Trekking (Trilhas)
+
+* 🏎️ Formula 1 (Fórmula 1)
+
+* 📖 Books (Livros)
+  * *Never Finished* (Nunca é hora de parar) — David Goggins
+  * *Deep Work* (Trabalho focado) — Cal Newport  
+  * *The Black Swan: The Impact of the Highly Improbable* (A lógica do cisne negro) — Nassim Nicholas Taleb  
+  * *Antifragile* (Antifrágil) — Nassim Nicholas Taleb
+
+## Contact me
+
+For work related topics and more book reccomendations, contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lorrantmarques/)
+
+
+  
+
